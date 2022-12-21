@@ -1,22 +1,19 @@
 /* Write your CSS here! */
-/* body {
-  background-color: #b8acd1;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-
+body {
+  background-color: #b8acd1a1;
+  margin: 8px;
+  display: block;
+  text-align: center;
 }
-
-section {
+article {
+  margin-left: auto;
+  margin-right: auto;
   background-color: #f6f2fa;
-  display: flex;
-  margin: 0.5em;
-  width: 40em;
-  justify-content: space-evenly;
-}
+  width: 50em;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 0.3%;
+  padding-bottom: 0.3%;
+  margin-bottom: 4%;
 
-#test2 {
-  justify-content: space-evenly;
-  background-color: red;
 }
- */
